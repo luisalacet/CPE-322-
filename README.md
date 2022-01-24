@@ -35,7 +35,7 @@ int main(){
 
 this is a [random link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![This is an image](https://cdn.discordapp.com/attachments/623239385177128973/935260267783290890/unknown.png)
+![This is an image](https://media.discordapp.net/attachments/623239385177128973/935260267783290890/unknown.png?width=473&height=473)
 
 - this 
 - is
@@ -46,10 +46,11 @@ this is a [random link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 2. is 
 3. another
 4. list
-  - nested 
-   - stuff
 
-- [] that is a task
+
+- [x] task 1
+- [ ] another task
+- [ ] task thing
 
 :thumbsup:
 
