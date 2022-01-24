@@ -35,7 +35,7 @@ int main(){
 
 this is a [random link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![This is an image](https://media.discordapp.net/attachments/623239385177128973/935260267783290890/unknown.png?width=473&height=473)
+![This is an image](https://media.discordapp.net/attachments/623239385177128973/935260267783290890/unknown.png?width=350&height=350)
 
 - this 
 - is
