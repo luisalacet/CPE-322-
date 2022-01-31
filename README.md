@@ -1,4 +1,4 @@
-# CPE-322-
+# CPE-322
 This repo was created for CPE 322 2022 spring[^1]
 
 **this is bold text** 💀
