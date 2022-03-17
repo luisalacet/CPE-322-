@@ -6,6 +6,8 @@ In this lab I used multiple important commands in the linux command line.
 
 ![This is an image](https://cdn.discordapp.com/attachments/623239385177128973/953816595002703923/unknown.png)
 
+here I used vs code instead of nano by typing the command code
+
 ![This is an image](https://cdn.discordapp.com/attachments/623239385177128973/953816749294374962/unknown.png)
 
 ![This is an image](https://cdn.discordapp.com/attachments/623239385177128973/953817095618043914/unknown.png)
