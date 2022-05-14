@@ -1,4 +1,4 @@
-#Lab 8
+# Lab 8
 
 installing the necessary packages
 
@@ -14,7 +14,7 @@ running some of the example code
 
 ![image](https://user-images.githubusercontent.com/78322824/168450169-56643bba-8421-4329-aa70-e061b18e3dfb.png)
 
-#8B
+# 8B
 
 ![image](https://user-images.githubusercontent.com/78322824/168450172-dfa495e3-6768-45ab-bae8-cefea27d1536.png)
 
