@@ -12,6 +12,10 @@ installing gspread and oauth2client
 
 ![image](https://user-images.githubusercontent.com/78322824/168444329-9ca7cafd-c783-4f67-9655-cd0003229006.png)
 
-![image](https://user-images.githubusercontent.com/78322824/168444337-e5077a75-db36-4a82-821d-57f67d6a70fc.png)
+![image](https://user-images.githubusercontent.com/78322824/168449046-2514100e-68b7-4e17-be23-f6a5a1d7ebb0.png)
+
+![image](https://user-images.githubusercontent.com/78322824/168449049-da122382-cd24-4d21-84b5-dc8568964225.png)
+
+
 
 
