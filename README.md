@@ -13,13 +13,6 @@ This repo was created for CPE 322 2022 spring[^1]
 
 >this is a quote
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
 This is some code
 
 ```
